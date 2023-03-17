@@ -1,6 +1,6 @@
 
-let yourArray = [1, " two", true, 5, "one"];
-console.log(yourArray);
+//your code here
+let yourArray = ["string", 1, false, true, 23]
 
 // let Demo= document.getElementById('demo');
 // Demo.innerHTML ='';
